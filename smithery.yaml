@@ -1,0 +1,6 @@
+name: genpark-multi-paxos-log-replication-engine-skill
+version: 1.0.0
+description: Multi-Paxos log replication consensus engine with leader lease optimization and slot agreement
+command: python
+args:
+  - mcp_server.py
